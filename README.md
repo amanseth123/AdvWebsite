@@ -1,2 +1,2 @@
 # AdvWebsite
-Advanced News Website
+Advanced News and Discussion Website
